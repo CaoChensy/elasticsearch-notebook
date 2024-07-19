@@ -14,6 +14,6 @@
 > Wechat
 
 <center>
-<img src="img/wechat.jpg" width="150px">
+<img src="notebook/img/wechat.jpg" width="150px">
 <h5>微信</h5>
 </center>
