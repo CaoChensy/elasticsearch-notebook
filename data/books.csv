@@ -1,0 +1,11 @@
+title,description,category,price,in_stock
+西游记,由明朝作家吴承恩创作，讲述了孙悟空、猪八戒、沙僧等人与唐僧师徒四人西天取经的故事。小说通过描绘师徒四人在取经路上所遭遇的种种艰难险阻，反映了人性的善恶、道德观念和宽容精神，成为中国文学的经典之作。,小说,10,FALSE
+红楼梦,由清朝作家曹雪芹创作，被誉为中国古代小说的巅峰之作。小说描绘了贾宝玉、林黛玉等人的生活，以及他们所处的大观园，通过描绘人物的情感和性格，反映了封建社会的种种矛盾和不幸。小说以其深刻的思想性、细腻的描写和独特的艺术风格而闻名于世。,小说,20,TRUE
+水浒传,由明朝作家施耐庵创作，讲述了宋朝末年一群落难英雄在梁山泊起义反抗统治者的故事。小说通过塑造众多英雄人物，描绘了人物的性格和命运，反映了封建社会的黑暗和人民的反抗精神，被称为中国古代小说的代表作之一。,小说,45,FALSE
+三国演义,由明朝作家罗贯中创作，讲述了三国时期的历史故事。小说通过描绘曹操、刘备、孙权等历史人物的生活和战争，反映了封建社会的政治斗争和社会矛盾，被誉为中国文学史上的一颗明珠。,小说,30,TRUE
+创意者的突破,"（""The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the?Digital Revolution""）：由沃尔特·艾萨克森（Walter Isaacson）所著，讲述了计算机和互联网的发展历程，聚焦于一些杰出人物，如艾伦·图灵（Alan Turing）、维尔纳·冯·布劳恩（Werner von Braun）、史蒂夫·乔布斯（Steve Jobs）等等。",传记,10,FALSE
+追风筝的人,（"The Kite Runner"）：由卡勒德·胡赛尼（Khaled Hosseini）所著，是一部关于阿富汗历史和文化的小说，讲述了一个男孩的成长经历和他对故乡的思念。书中涉及到许多人物的命运和背景，是一部感人至深的故事。,传记,20,TRUE
+马拉拉的故事,（"I Am Malala: The Girl Who Stood Up for Education and Was Shot by the?Taliban"）：由马拉拉·优素福扎伊（Malala Yousafzai）和克里斯蒂娜·兰德（Christina Lamb）所著，讲述了马拉拉的生平和她对女性教育的推动。马拉拉是一位巴基斯坦的人权活动家，曾被塔利班组织射击，但幸存下来，成为了世界上最年轻的诺贝尔和平奖得主。,传记,45,FALSE
+爱因斯坦传,（"Einstein: His Life and Universe"）：由沃尔特·艾萨克森所著，讲述了爱因斯坦的生平和科学成就。书中详细介绍了爱因斯坦的理论物理学和相对论，同时也揭示了他个人生活中的许多方面，如他的家庭、情感和政治观点。,传记,35,TRUE
+Python,Python elastic search,工具,47,TRUE
+Term,Term-context,test,5,FALSE
